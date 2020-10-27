@@ -4,7 +4,7 @@ certifi==2019.3.9
 cffi==1.12.2
 chardet==3.0.4
 conda==4.6.14
-cryptography==2.6.1
+cryptography==3.2
 idna==2.8
 macholib==1.11
 modulegraph==0.17
